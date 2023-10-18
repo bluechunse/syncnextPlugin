@@ -1,15 +1,5 @@
 [
     {
-        "id": "7812ea6f-85bd-40ee-a3de-b2ed76d52bdf",
-        "Top": true,
-        "note": "粤语港剧社区平台",
-        "GEO": "Only-China",
-        "Search": true,
-        "title": "埋堆堆",
-        "name": "SyncnextMDD",
-        "api": "Syncnext://MDD"
-    },
-    {
         "id": "e10df297-5359-41dd-8d29-dcc103ecb8b7",
         "Top": true,
         "note": "片源高畫質追求",
@@ -77,47 +67,7 @@
         "name": "360影視大全",
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/360kan.json"
     },
-    {
-        "id": "06597cd6-593b-45fe-9a4f-fa8e42c7397a",
-        "Top": true,
-        "note": "斗鱼直播平台",
-        "name": "鬥魚直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/douyuM.json"
-    },
-    {
-        "id": "a3501411-30ad-4ad7-bbe4-d3870e9ab042",
-        "Top": true,
-        "note": "虎牙直播平台",
-        "name": "虎牙直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/huya.json"
-    },
-    {
-        "id": "668f455a-a101-41a2-91c0-388f7ab42a47",
-        "Top": true,
-        "note": "二次元弹幕直播平台",
-        "name": "bilibili直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/bili_live.json"
-    },
-    {
-        "id": "c62ab540-a86d-445b-a16a-feb54840a240",
-        "Top": true,
-        "note": "1080P 4M",
-        "Search": true,
-        "name": "快看资源",
-        "Cover": "https://i.ibb.co/qFfYpvB/0-46909073898760023.png",
-        "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/at/xml"
-    },
-    {
-        "id": "64d12539-f3e6-4b88-b29c-4fac02732428",
-        "Top": true,
-        "note": "海外 IP，插入式廣告",
-        "GEO": "Non-China",
-        "Search": true,
-        "name": "海外看資源",
-        "ADBlockModel": "haiwaikan_v5",
-        "api": "https://haiwaikan.com/api.php/provide/vod/at/xml "
-    },
-    {
+   {
         "id": "e0d40c59-521b-494b-9a21-aae5e265c305",
         "Top": true,
         "note": "無貼片，插入式廣告",
