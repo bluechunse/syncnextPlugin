@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node node_Test.js"
   },
-  "author": "icy37785",
+  "author": "bluechunse",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.1.1",
