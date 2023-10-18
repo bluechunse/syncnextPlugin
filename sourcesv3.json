@@ -27,24 +27,6 @@
         "api": "Syncnext://AGE"
     },
     {
-        "id": "b374a438-50e3-4b89-b555-62781f5ad7fb",
-        "Top": true,
-        "note": "海外 IP",
-        "Search": true,
-        "title": "歐樂影院",
-        "name": "SyncnextOLE",
-        "api": "Syncnext://OLE"
-    },
-    {
-        "id": "4cd6c579-1d6f-42d9-a9be-c26d3cbfd835",
-        "Top": true,
-        "note": "海外華人在綫影院",
-        "GEO": "Non-China",
-        "Search": true,
-        "name": "泥视频",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/nivod.json"
-    },
-    {
         "id": "219e7e12-51d4-4e62-9707-7307dc5ca7ff",
         "Top": true,
         "note": "海外華人免費影視大全",
@@ -96,14 +78,6 @@
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/hanime1.json"
     },
     {
-        "id": "293049ba-47a0-4e21-9f1e-7a4f2f0eda9c",
-        "note": "免費18x直播平台",
-        "GEO": "Non-China",
-        "Adult": true,
-        "name": "stripchat直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/stripchat.json"
-    },
-    {
         "id": "d2e8afb9-c98e-426c-bb09-82eee63c73e3",
         "Top": false,
         "note": "CC 版權電影",
@@ -126,32 +100,11 @@
         "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
     },
     {
-        "id": "6f9c4fab-c7a7-4fc4-a008-838750e0fc79",
-        "Search": false,
-        "Adult": true,
-        "name": "森林资源",
-        "api": "https://slapibf.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "980a86de-5970-4e03-863c-a7ff534e0e84",
-        "Search": false,
-        "Adult": true,
-        "name": "影库资源网",
-        "api": "https://api.ykapi.net/api.php/provide/vod/at/xml"
-    },
-    {
         "id": "50f973e6-8bce-473c-8a09-3656fe171483",
         "note": "720P 文字貼片 1.25M",
         "Search": true,
         "name": "快车资源",
         "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml "
-    },
-    {
-        "id": "e94323bf-8814-458a-9e74-f7546167343a",
-        "Search": false,
-        "Adult": true,
-        "name": "探探资源",
-        "api": "https://apittzy.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "92adddc8-9694-4004-8e90-83efec6ceb87",
@@ -166,18 +119,6 @@
         "Search": true,
         "name": "光速资源",
         "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml"
-    },
-    {
-        "id": "d922f858-5100-4ccd-959f-a71510e390e6",
-        "Adult": true,
-        "name": "老鸭资源采集",
-        "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "c881dcf3-d311-4e7d-b4e9-72e44f7ac808",
-        "Adult": true,
-        "name": "奥斯卡资源网",
-        "api": "https://aosikazy.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "a35c132a-8f52-4947-ad32-480732a7dee9",
@@ -205,14 +146,6 @@
         "Search": true,
         "name": "天空资源",
         "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/"
-    },
-    {
-        "id": "b24cf660-5921-4588-8311-a2d753ed0708",
-        "note": "720P，貼片廣告",
-        "Search": false,
-        "Adult": true,
-        "name": "乐播",
-        "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
     },
     {
         "id": "4dfda674-11ca-4e1c-a0e6-aec7668dbb58",
@@ -251,17 +184,4 @@
         "name": "夸克资源",
         "api": "http://kuakezy1.com/api.php/provide/vod/from/M3U8kuake/at/xml/"
     },
-    {
-        "id": "23f31663-8247-4b3c-843d-e70483b23e0a",
-        "Search": false,
-        "name": "粵語劇",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/qoli/syncnextPlugin/main/alpha_v2/alpha_v2.json"
-    },
-    {
-        "id": "6758e34e-34c3-4002-af7e-94b6a83a5a14",
-        "note": "1080P，1M",
-        "Search": true,
-        "name": "索尼资源网",
-        "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/"
-    }
 ]
