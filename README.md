@@ -7,7 +7,7 @@ PS.目前鬥魚的高碼率源只提供flv格式，syncnext 使用 avplayer 暫�
 |  完整訂閲  |  訂閲地址  |
 | --- | --- |
 |原版|`https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json`|
-|自用|`https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/sourcesv3.json`|
+|自用|`https://raw.githubusercontent.com/bluechunse/syncnextPlugin/main/sourcesv3.json`|
 
 |  插件名稱  |  插件地址  |
 | --- | --- |
