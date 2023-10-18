@@ -68,16 +68,6 @@
         "api": "http://new.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/"
     },
     {
-        "id": "0c22e686-b494-4e78-b2e1-7fa919c01e00",
-        "Top": false,
-        "note": "H動漫/裏番/線上看",
-        "GEO": "Non-China",
-        "Search": false,
-        "Adult": true,
-        "name": "hanime1动漫",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/hanime1.json"
-    },
-    {
         "id": "d2e8afb9-c98e-426c-bb09-82eee63c73e3",
         "Top": false,
         "note": "CC 版權電影",
