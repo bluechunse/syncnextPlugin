@@ -15,7 +15,7 @@
         "Search": true,
         "title": "厂长资源",
         "name": "SyncnextCZSPP",
-        "api": "https://www.cz0101.com"
+        "api": "Syncnext://CZ0101"
     },
     {
         "id": "d76326d5-69c2-4dce-a86c-50bbdd478000",
